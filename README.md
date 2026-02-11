@@ -1,15 +1,15 @@
-# mtools
+# m101tools
 A lightweight toolkit for ML projects with setup verification and GPU diagnostics.
 
 ## Installation
 ```bash
-pip install git+https://github.com/m101yosef/mtools.git
+pip install git+https://github.com/m101yosef/m101tools.git
 ```
 
 For development:
 ```bash
-git clone https://github.com/m101yosef/mtools.git
-pip install -e ./mtools[dev]
+git clone https://github.com/m101yosef/m101tools.git
+pip install -e ./m101tools[dev]
 ```
 
 ## Quick Start
